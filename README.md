@@ -1,18 +1,16 @@
 # Menu Controller: Making Existing Software More Accessible for People with Motor Impairments
 
-[![Menu Controller with Eagle Aliens](http://cs-people.bu.edu/ckwan/menucontroller/MCAliens25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCAliens.png) [![A user using Menu Controller](http://cs-people.bu.edu/ckwan/menucontroller/MCUser25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCUser.png) [![Menu Controller with Windows Media Player](http://cs-people.bu.edu/ckwan/menucontroller/MCWMP25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCWMP.png)
-
 [**Isaac Paquette**](https://github.com/isaacpaquette), [**Christopher Kwan**](http://cs-people.bu.edu/ckwan/) and [**Margrit Betke**](http://www.cs.bu.edu/~betke/)
 
 { paquette, ckwan, betke } @ cs.bu.edu
 
 [Image and Video Computing Group](http://www.cs.bu.edu/groups/ivc/), [Computer Science Department](http://www.cs.bu.edu/), [Boston University](http://www.bu.edu/)
 
-## About Menu Controller
-
 **Menu Controller** is a tool that allows people with severe motor impairments who cannot use their hands to operate a mouse or keyboard to access menu items in existing Windows applications. It is designed for use with the [Camera Mouse](http://cameramouse.bu.edu/), software that allows you to control the mouse pointer by moving your head in front of a web camera. Using **Menu Controller** and [Camera Mouse](http://cameramouse.bu.edu/), users can access functionality from existing applications from a more easily accessible user interface.
 
 Both programs are completely free. We are constantly working on making them better by incorporating feedback from our users. Please try our latest versions and let us know what you think!
+
+[![Menu Controller with Eagle Aliens](http://cs-people.bu.edu/ckwan/menucontroller/MCAliens25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCAliens.png) [![A user using Menu Controller](http://cs-people.bu.edu/ckwan/menucontroller/MCUser25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCUser.png) [![Menu Controller with Windows Media Player](http://cs-people.bu.edu/ckwan/menucontroller/MCWMP25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCWMP.png)
 
 ## Downloads
 
