@@ -2,7 +2,7 @@
 
 [![Menu Controller with Eagle Aliens](http://cs-people.bu.edu/ckwan/menucontroller/MCAliens25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCAliens.png) [![A user using Menu Controller](http://cs-people.bu.edu/ckwan/menucontroller/MCUser25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCUser.png) [![Menu Controller with Windows Media Player](http://cs-people.bu.edu/ckwan/menucontroller/MCWMP25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCWMP.png)
 
-**Isaac Paquette**, [**Christopher Kwan**](http://cs-people.bu.edu/ckwan/) and [**Margrit Betke**](http://www.cs.bu.edu/~betke/)
+[**Isaac Paquette**](https://github.com/isaacpaquette), [**Christopher Kwan**](http://cs-people.bu.edu/ckwan/) and [**Margrit Betke**](http://www.cs.bu.edu/~betke/)
 
 { paquette, ckwan, betke } @ cs.bu.edu
 
