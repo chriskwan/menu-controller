@@ -10,6 +10,10 @@
 
 Both programs are completely free. We are constantly working on making them better by incorporating feedback from our users. Please try our latest versions and let us know what you think!
 
+Original website: [http://cs-people.bu.edu/ckwan/menucontroller](http://cs-people.bu.edu/ckwan/menucontroller)
+
+Original code (now archived): [https://code.google.com/archive/p/menucontroller](https://code.google.com/archive/p/menucontroller)
+
 ## Contributing
 
 Contribute to Camera Canvas by creating a fork of the repository, making changes there, and then submitting pull requests. For more information, see:
