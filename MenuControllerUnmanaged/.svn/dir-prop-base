@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 68
+Debug
+MenuControllerUnmanaged.vcproj.ILAPTOP.Isaac.user
+Release
+obj
+
+END

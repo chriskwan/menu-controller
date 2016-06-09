@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MenuController" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ButtonSize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">125 x 125</Value>
+    </Setting>
+    <Setting Name="Orientation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Horizontal - Top</Value>
+    </Setting>
+    <Setting Name="DisplayBehavior" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Auto-resize compatible windows</Value>
+    </Setting>
+    <Setting Name="AlwaysOnTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
