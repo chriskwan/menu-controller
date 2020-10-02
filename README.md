@@ -1,6 +1,6 @@
 # Menu Controller: Making Existing Software More Accessible for People with Motor Impairments
 
-[**Isaac Paquette**](https://github.com/isaacpaquette), [**Christopher Kwan**](http://cs-people.bu.edu/ckwan/) and [**Margrit Betke**](http://www.cs.bu.edu/~betke/)
+[**Isaac Paquette**](https://github.com/isaacpaquette), **Christopher Kwan** and [**Margrit Betke**](http://www.cs.bu.edu/~betke/)
 
 { paquette, ckwan, betke } @ cs.bu.edu
 
