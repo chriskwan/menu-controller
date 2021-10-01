@@ -20,7 +20,7 @@ Contribute to Camera Canvas by creating a fork of the repository, making changes
 * [GitHub Tutorial](https://guides.github.com/activities/hello-world/)
 * [How to Fork a Repo](https://help.github.com/articles/fork-a-repo/)
 
-[![Menu Controller with Eagle Aliens](http://cs-people.bu.edu/ckwan/menucontroller/MCAliens25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCAliens.png) [![A user using Menu Controller](http://cs-people.bu.edu/ckwan/menucontroller/MCUser25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCUser.png) [![Menu Controller with Windows Media Player](http://cs-people.bu.edu/ckwan/menucontroller/MCWMP25.png)](http://cs-people.bu.edu/ckwan/menucontroller/MCWMP.png)
+[![Menu Controller with Eagle Aliens](./images/MCAliens25.png)](./images/MCAliens.png) [![A user using Menu Controller](./images/MCUser25.png)](./images/MCUser.png) [![Menu Controller with Windows Media Player](./images/MCWMP25.png)](./images/MCWMP.png)
 
 ## Downloads
 
